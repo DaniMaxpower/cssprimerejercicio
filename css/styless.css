@@ -1,0 +1,20 @@
+
+.square {
+    height: 10em;
+    width: 10em;
+
+    background-color: brown;
+}
+
+
+.circle {
+    height: 10em;
+    width: 10em;
+
+    background-color: aquamarine;
+
+    border-radius: 50%;
+}
+#circulo6 {background-color: gold;}
+
+#cuadrado2 {background-color: chartreuse;}
